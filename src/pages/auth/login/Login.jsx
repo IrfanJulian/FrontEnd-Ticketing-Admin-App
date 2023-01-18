@@ -21,7 +21,7 @@ const LoginPage = () => {
       [e.target.name]: e.target.value
     })
   }
-
+  
   const handleLogin = (e) => {
     e.preventDefault()
     dispatch(Login(form, navigate))

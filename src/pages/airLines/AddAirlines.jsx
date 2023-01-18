@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
+import Swal from 'sweetalert2'
 import Navbar from '../../components/Navbar'
 import { addAirlines } from '../../config/redux/action/airlinesAction'
 
@@ -30,8 +31,12 @@ const AddAirlines = () => {
     formData.append('photo', photo, photo.phone)
     try {
       dispatch(addAirlines(formData))
-      alert('Add airlines success')
+      Swal.fire({
+        icon: 'success',
+        title: 'Add New Airlines Success'
+      })
       navigate('/airlines')
+      // window.location.reload()
     } catch (error) {
       console.log(error);
     }

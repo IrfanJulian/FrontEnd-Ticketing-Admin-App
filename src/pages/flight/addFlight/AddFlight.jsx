@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
+import Swal from 'sweetalert2'
 import Navbar from '../../../components/Navbar'
 import { addTicket } from '../../../config/redux/action/ticketAction'
 
@@ -38,7 +39,10 @@ const AddFlight = () => {
     e.preventDefault()
     try {
       dispatch(addTicket(form))
-      alert('Add ticket success')
+      Swal.fire({
+        icon: 'success',
+        title: 'Add Ticket Success'
+      })
       navigate('/home')
     } catch (error) {
       console.log(error);

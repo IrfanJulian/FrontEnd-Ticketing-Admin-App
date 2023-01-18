@@ -70,7 +70,7 @@ const AirLines = () => {
                     <p className='text-xl my-auto text-center'>{airlines.phone}</p>
                 </div>
                 <div className="tittle grid border py-5 w-4/12">
-                    <img src={airlines.photo} alt="icon" className='w-[8rem] h-[5rem] mx-auto' />
+                    <img src={airlines.photo} alt="icon" className='w-[12rem] h-[10rem] mx-auto' />
                 </div>
                 <div className="tittle grid border py-3 w-2/12">
                     <PopupDelete onClick={()=>handleDelete(airlines.id)} />
