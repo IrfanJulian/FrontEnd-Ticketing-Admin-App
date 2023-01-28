@@ -73,7 +73,7 @@ npm install
 
 ## Screenshots
 
-| Login Page                                                                                              | Forgot Password Page                                                                                                         |
+| Login Page                                                                                              |Page                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | ![Login](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/login.jpg "Login Page") |
 
