@@ -43,7 +43,7 @@ const AddFlight = () => {
         icon: 'success',
         title: 'Add Ticket Success'
       })
-      navigate('/home')
+      // navigate('/home')
     } catch (error) {
       console.log(error);
     }

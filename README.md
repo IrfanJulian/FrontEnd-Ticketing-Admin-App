@@ -1,70 +1,161 @@
-# Getting Started with Create React App
+<h1 align="center">ANKASA TICKETING ADMIN</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img height="150" src="https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/logo.png"  />
+</p>
+ <p align="center">
+    Explore the world and find your ticket with ankasa.
+  </p>
 
-## Available Scripts
+<!-- TABLE OF CONTENTS -->
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built with</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#related-project">Related Project</a></li>
+    <li><a href="#our-team">Our Team</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ANKASA TICKETING ADMIN is an application for distribution data ticket and airplanes to ANKASA TICKETING CUSTOMER. Ankasa Ticketing Admin is made by the Caffeine team.
 
-### `npm test`
+### Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This app was built with some technologies below:
 
-### `npm run build`
+- [React Js](https://reactjs.org)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Sweetalert2](https://www.npmjs.com/package/sweetalert2)
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [Javascript](https://www.javascript.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- GETTING STARTED -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
 
-### `npm run eject`
+- Clone This Front End Repo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+git clone https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Go To Folder Repo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+cd FrontEnd-Ticketing-Admin-App
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Install Module
 
-## Learn More
+```
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshots
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| Login Page                                                                                              | Forgot Password Page                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| ![Login](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/login.jpg "Login Page") |
 
-### Code Splitting
+| Landing/Explore Page                                                                                                  | Flight Page                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ![Landing](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/landing.jpg "Landing/Explore Page") | ![Flight](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/flight.jpg "Flight Page") |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+| Flight Detail Page                                                                                                              | Payment Page                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![Flight Detail](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/detail_flight.jpg "Flight Detail Page") | ![Payment](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/payment.jpg "Payment Page") |
 
-### Analyzing the Bundle Size
+| My Booking Page                                                                                                       | Bookingpass Page                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![My Booking](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/mybooking.jpg "My Booking Page") | ![Bookingpass](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/bookingpass.jpg "Bookingpass Page") |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| Profile Page |
+| ------------ |
 
-### Making a Progressive Web App
+| ![Profile](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/profile.jpg "Profile Page")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Related Project
 
-### Advanced Configuration
+- [`BACKEND ANKASA TICKETING`](https://github.com/Rdhwnzaki/BackEnd-Ticketing-App)
+- [`FRONTEND ANKASA TICKETING ADMIN`](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App.git)
+- [`DEMO ANKASA TICKETING CUSTOMER`](https://caffeine-ankasa-tickecting.netlify.app)
+- [`DEMO ANKASA TICKETING ADMIN`](https://ticketing-admin.up.railway.app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Our Team
 
-### Deployment
+<center>
+  <table>
+    <tr>
+      <th>Frontend/PO</th>
+      <th>Frontend</th>
+      <th>Frontend</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Backend</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Rdhwnzaki">
+          <img width="150" style="background-size: contain;" src="https://avatars.githubusercontent.com/u/114749223?v=4" alt="Ridhwan Muhammad Zaki"><br/>
+          <b>Ridhwan Muhammad Zaki</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Fanani23">
+          <img width="150" src="https://avatars.githubusercontent.com/u/99703360?v=4" alt="Pramudia Syahrul Fanani"><br/>
+          <b>Pramudia Syahrul Fanani</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/IrfanJulian">
+          <img width="150" src="https://avatars.githubusercontent.com/u/103256648?v=4" alt="Irfan Julian Ibrahim"><br/>
+          <b>Irfan Julian Ibrahim</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Lidiya135">
+          <img width="150" src="https://avatars.githubusercontent.com/u/105529138?v=4" alt="Lidiya Wati"><br/>
+          <b>Lidiya Wati</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/RizRev">
+          <img width="150" src="https://avatars.githubusercontent.com/u/114935602?v=4" alt="Achmad Rizky Revanda"><br/>
+          <b>Achmad Rizky Revanda</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/giansandi025">
+          <img width="150" src="https://avatars.githubusercontent.com/u/109684038?v=4" alt="Gian Edrisandi"><br/>
+          <b>Gian Edrisandi</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</center>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
+Distributed under the [MIT](/LICENSE) License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#top">back to top</a>)</p>
