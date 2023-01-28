@@ -73,15 +73,14 @@ npm install
 
 ## Screenshots
 
-| Login Page                                                                                              |Page                                                                                                         |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Login Page                                                                                              |---------------------------------------------------------------------------------------------------------------------------- |
 | ![Login](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/login.jpg "Login Page") |
 
-| Landing/List Ticket Page                                                                                                  | Flight Page                                                                                                |
+| Landing/List Ticket Page                                                                                                  | List Airlines Page                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | ![Landing](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100535.png "Landing/Explore Page") | ![List](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100746.png "List Airlines") |
 
-| Flight Detail Page                                                                                                              | Payment Page                                                                                                  |
+| Add Airlines  Page                                                                                                          | Add Ticket Page Page                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ![Add Airlines](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100805.png "Add Airlines Page") | ![Add Ticket](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100830.png "Add Ticket Page") |
 
