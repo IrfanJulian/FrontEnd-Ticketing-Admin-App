@@ -73,8 +73,8 @@ npm install
 
 ## Screenshots
 
-| Login Page                                                                                              |---------------------------------------------------------------------------------------------------------------------------- |
-| ![Login](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/login.jpg "Login Page") |
+## Login Page
+| ![Login](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/login.jpg "Login Page")
 
 | Landing/List Ticket Page                                                                                                  | List Airlines Page                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
