@@ -77,29 +77,20 @@ npm install
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | ![Login](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/login.jpg "Login Page") |
 
-| Landing/Explore Page                                                                                                  | Flight Page                                                                                                |
+| Landing/List Ticket Page                                                                                                  | Flight Page                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![Landing](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/landing.jpg "Landing/Explore Page") | ![Flight](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/flight.jpg "Flight Page") |
+| ![Landing](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100535.png "Landing/Explore Page") | ![List](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100746.png "List Airlines") |
 
 | Flight Detail Page                                                                                                              | Payment Page                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![Flight Detail](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/detail_flight.jpg "Flight Detail Page") | ![Payment](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/payment.jpg "Payment Page") |
-
-| My Booking Page                                                                                                       | Bookingpass Page                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![My Booking](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/mybooking.jpg "My Booking Page") | ![Bookingpass](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/bookingpass.jpg "Bookingpass Page") |
-
-| Profile Page |
-| ------------ |
-
-| ![Profile](https://github.com/Rdhwnzaki/FrontEnd-Ticketing-App/blob/dev-lidiya/ss/profile.jpg "Profile Page")
+| ![Add Airlines](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100805.png "Add Airlines Page") | ![Add Ticket](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App/blob/main/screenshot/Screenshot_20230128_100830.png "Add Ticket Page") |
 
 ## Related Project
 
 - [`BACKEND ANKASA TICKETING`](https://github.com/Rdhwnzaki/BackEnd-Ticketing-App)
 - [`FRONTEND ANKASA TICKETING ADMIN`](https://github.com/IrfanJulian/FrontEnd-Ticketing-Admin-App.git)
 - [`DEMO ANKASA TICKETING CUSTOMER`](https://caffeine-ankasa-tickecting.netlify.app)
-- [`DEMO ANKASA TICKETING ADMIN`](https://ticketing-admin.up.railway.app)
+- [`DEMO ANKASA TICKETING ADMIN`](https://ticketing-adm.netlify.app/)
 
 ## Our Team
 
